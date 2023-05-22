@@ -1,0 +1,9 @@
+﻿*.log
+*.spec
+*.zip
+config.ini
+build/
+dist/
+lib/
+__pycache__/
+DIY-IP-KVM_*/
